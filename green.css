@@ -1,0 +1,13 @@
+:root {
+    --mainColor: rgba(62, 143, 120, 0.651);
+    --secondMainColor: rgb(160, 246, 212);
+
+    --mainText: rgb(0, 0, 0);
+    --secondaryText: rgb(255, 255, 255);
+    --borderColor: rgb(35, 87, 62);
+    --linkColor: rgb(0, 0, 0);
+    --themeDotBorder: rgb(8, 255, 177);
+    --box: rgba(6, 96, 75, 0.512);
+    --buttonColor: rgb(82, 174, 88);
+    --aboutColor: rgb(51, 12, 21);
+}
