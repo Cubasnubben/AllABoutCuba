@@ -1,0 +1,14 @@
+:root {
+    --secondMainColor: rgb(78, 76, 76);
+    --mainColor: rgb(0, 0, 0);
+    --mainText: rgb(255, 255, 255);
+    --secondaryText: rgb(255, 255, 255);
+    --borderColor: rgb(255, 255, 255);
+    --linkColor: rgb(255, 255, 255);
+    --themeDotBorder: rgb(255, 255, 255);
+    --box: rgba(148, 144, 139, 0.604);
+    --buttonColor: rgb(0, 0, 0);
+    --inputText: lightgray;
+
+
+}
